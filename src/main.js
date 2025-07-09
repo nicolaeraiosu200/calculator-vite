@@ -56,6 +56,3 @@ document.querySelectorAll('.buttons button').forEach(btn => {
     }
   });
 });
-git remote add origin https://github.com/USERNAME/calculator-vite.git
-git branch -M main
-git push -u origin main
